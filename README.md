@@ -5,12 +5,12 @@ in this project I am analyzing cleaning and visualizing the CIFAR10 dataset then
 3. Making some conclusions about the data.
 4. classification using neural networks with:
     - callbacks:
-        - early stopping
-        - model checkpoint
-    - Batch normalization
-    - Selu activation function
+        - early stopping.
+        - model checkpoint.
+    - Batch normalization.
+    - Selu activation function.
     - regularization techniques:
-        - Alpha dropout
-        - MC dropout
+        - Alpha dropout.
+        - MC dropout.
     - learning schedule:
-        - 1cycle scheduling
+        - 1cycle scheduling.
